@@ -4,13 +4,13 @@
 
 <h4>St. Patrick's Cathedral</h4>
 
-<a href="">St. Patrick's Cathedral part 1</a><br>
-<a href="">St. Patrick's Cathedral part 2</a><br>
-<a href="">St. Patrick's Cathedral part 3</a><br>
+<a href="https://glitch.com/~cathedral-part-one">St. Patrick's Cathedral part 1</a><br>
+<a href="https://glitch.com/~cathedral-part-two">St. Patrick's Cathedral part 2</a><br>
+<a href="https://glitch.com/~cathedral-part-three">St. Patrick's Cathedral part 3</a><br>
 
-<a href="">Non-VR - St. Patrick's Cathedral part 1</a><br>
-<a href="">Non-VR - St. Patrick's Cathedral part 2</a><br>
-<a href="">Non-VR - St. Patrick's Cathedral part 3</a><br>
+<a href="https://glitch.com/~cathedral-part-one-non-vr">Non-VR - St. Patrick's Cathedral part 1</a><br>
+<a href="https://glitch.com/~cathedral-part-two-non-vr">Non-VR - St. Patrick's Cathedral part 2</a><br>
+<a href="https://glitch.com/~cathedral-part-three-non-vr">Non-VR - St. Patrick's Cathedral part 3</a><br>
 
 <h4>Dunluce Castle</h4>
 
