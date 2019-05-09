@@ -4,13 +4,13 @@
 
 <h4>St. Patrick's Cathedral</h4>
 
-<a href="">St. Patrick's Cathedral part 1</a>
-<a href="">St. Patrick's Cathedral part 2</a>
-<a href="">St. Patrick's Cathedral part 3</a>
+<a href="">St. Patrick's Cathedral part 1</a><br>
+<a href="">St. Patrick's Cathedral part 2</a><br>
+<a href="">St. Patrick's Cathedral part 3</a><br>
 
-<a href="">Non-VR - St. Patrick's Cathedral part 1</a>
-<a href="">Non-VR - St. Patrick's Cathedral part 2</a>
-<a href="">Non-VR - St. Patrick's Cathedral part 3</a>
+<a href="">Non-VR - St. Patrick's Cathedral part 1</a><br>
+<a href="">Non-VR - St. Patrick's Cathedral part 2</a><br>
+<a href="">Non-VR - St. Patrick's Cathedral part 3</a><br>
 
 
 
