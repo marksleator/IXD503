@@ -2,4 +2,4 @@
 
 Prototypes
 
-<a href="#">Prototype</a><a href="#">View Code</a>
+<a href="#">Prototype</a> - <a href="#">View Code</a>
