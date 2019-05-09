@@ -14,15 +14,15 @@
 
 <h4>Dunluce Castle</h4>
 
-<a href="">Dunluce Castle part 1</a><br>
-<a href="">Dunluce Castle part 2</a><br>
-<a href="">Dunluce Castle part 3</a><br>
-<a href="">Dunluce Castle part 4</a><br>
+<a href="https://glitch.com/~dunluce-part-one">Dunluce Castle part 1</a><br>
+<a href="https://glitch.com/~dunluce-part-two">Dunluce Castle part 2</a><br>
+<a href="https://glitch.com/~dunluce-part-three">Dunluce Castle part 3</a><br>
+<a href="https://glitch.com/~dunluce-part-four">Dunluce Castle part 4</a><br>
 
-<a href="">Non-VR - Dunluce Castle part 1</a><br>
-<a href="">Non-VR - Dunluce Castle part 2</a><br>
-<a href="">Non-VR - Dunluce Castle part 3</a><br>
-<a href="">Non-VR - Dunluce Castle part 4</a><br>
+<a href="https://glitch.com/~dunluce-part-one-non-vr">Non-VR - Dunluce Castle part 1</a><br>
+<a href="https://glitch.com/~dunluce-part-two-non-vr">Non-VR - Dunluce Castle part 2</a><br>
+<a href="https://glitch.com/~dunluce-part-three-non-vr">Non-VR - Dunluce Castle part 3</a><br>
+<a href="https://glitch.com/~dunluce-part-four-non-vr">Non-VR - Dunluce Castle part 4</a><br>
 
 <h4>Mourne Mountains</h4>
 
